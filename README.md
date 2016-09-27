@@ -5,4 +5,5 @@
 This will be the main portfolio page for James Lee. I am
 currently located in New York City.
 
-gogogogo
+Bootcamp 7 
+change from github
